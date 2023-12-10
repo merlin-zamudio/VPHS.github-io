@@ -532,13 +532,20 @@
     }
   }
   
-  @media (max-width: 450px) {
- .map .box-container .box {
-     height: 200px;
- }
-  .map .content h3 {
-      font-size: 3.5rem;
+@media (max-width: 600px) {
+    
+    .map {
+      flex-direction: column;
+    } 
+    .box-container {
+        margin-top: 20px;
     }
+     .box {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+
 
 
  
