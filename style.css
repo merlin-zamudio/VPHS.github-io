@@ -78,7 +78,7 @@
     left: 0;
     right: 0;
     z-index: 1000;
-    background: linear-gradient(to left, #0E2038, #5b89c9, #f5c400);
+    background: linear-gradient(to bottom, #0E2038, #5b89c9);
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -384,7 +384,7 @@
     line-height: 2;
   }
   .footer{
-    background: linear-gradient(to left, #0E2038, #5b89c9, #f5c400);
+    background: linear-gradient(to top, #0E2038, #5b89c9);
   }
 
   .footer .box-container {
