@@ -243,11 +243,13 @@
     line-height: 2;
     font-weight: normal;
   }
-  
+  .footer .box{
+    font-weight: normal;
+  }
   .footer .box-container .box p i {
     padding-right: .5rem;
     color: #a3b5c0;
-    font-weight: normal;
+
   }
   
   .footer .box-container .box .share {
