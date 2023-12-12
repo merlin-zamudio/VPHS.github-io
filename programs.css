@@ -88,15 +88,7 @@
   .header .btn {
       margin-top: 0;
     }
-  .Program {
-    background-size: cover;
-    background-position: center;
-    padding: 8rem 4rem;
-    background-attachment: fixed;
-    text-align: center;
-
-  }
-  .Program .box-container {
+.Program .box-container {
   -webkit-columns: 3 25rem;
           columns: 3 25rem;
   -webkit-column-gap: 1.5rem;
@@ -117,16 +109,14 @@
 
 .Program .box-container .box span {
   font-size: 1.4rem;
-  color: #0E2038;
+  color: #90a4b0;
 }
-
 
 .Program .box-container .box h3 {
   margin-top: .5rem;
   font-size: 2rem;
   color: #0E2038;
 }
-
   .logo {
       font-size: 2.5rem;
       color: #fffdf0;
