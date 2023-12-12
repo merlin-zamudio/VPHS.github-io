@@ -241,11 +241,13 @@
     color: #fff;
     padding: 1rem 0;
     line-height: 2;
+    font-weight: normal;
   }
   
   .footer .box-container .box p i {
     padding-right: .5rem;
     color: #a3b5c0;
+    font-weight: normal;
   }
   
   .footer .box-container .box .share {
@@ -263,6 +265,7 @@
     color: #758D93;
     margin-right: .5rem;
     text-align: center;
+    font-weight: normal;
   }
   
   .footer .box-container .box .share a:hover {
@@ -296,6 +299,7 @@
     border: 0.2rem solid #fff;
     background: none;
     font-size: 1.5rem;
+    font-weight: normal;
     text-transform: none;
     color: #f5c400;
     margin-bottom: 1rem;
@@ -305,6 +309,7 @@
         background: #0E2038;
         text-align: center;
         font-size: 1.6rem;
+        font-weight: normal;
         padding: 2rem 1rem;
         color: #90A4B0;
       }
