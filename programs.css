@@ -88,6 +88,14 @@
   .header .btn {
       margin-top: 0;
     }
+  .Program {
+    background-size: cover;
+    background-position: center;
+    padding: 8rem 4rem;
+    background-attachment: fixed;
+    text-align: center;
+
+  }
   .Program .box-container {
   -webkit-columns: 3 25rem;
           columns: 3 25rem;
