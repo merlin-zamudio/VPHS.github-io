@@ -88,6 +88,33 @@
   .header .btn {
       margin-top: 0;
     }
+  .banner {
+      background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(images/school.png) no-repeat;
+      background-size: cover;
+      background-position: center;
+      padding: 3rem 2rem;
+      background-attachment: fixed;
+      text-align: center;
+    }
+      
+  .banner .content span {
+      font-size: 15px;
+      color: #ffffff;
+      }
+  
+  .banner .content h3 {
+      font-size: 4rem;
+      color: #fff;
+      padding: 5rem;
+      }
+      
+  .banner .content p {
+      font-size: 15px;
+      color: #fff;
+      margin-top: 1rem;
+      line-height: 2;
+      }
+
 .Program .box-container {
   -webkit-columns: 3 25rem;
           columns: 3 25rem;
