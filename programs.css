@@ -114,7 +114,10 @@
       margin-top: 1rem;
       line-height: 2;
       }
-
+.program{
+  background-size: cover;
+  background-position: center;
+}
 .program .box-container {
   -webkit-columns: 3 25rem;
           columns: 3 25rem;
