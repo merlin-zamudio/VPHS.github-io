@@ -301,18 +301,17 @@
     margin-bottom: 1rem;
     padding: 1.2rem 1.4rem;
   }
-
-.credit {
-  background: #0E2038;
-  text-align: center;
-  font-size: 1.6rem;
-  padding: 2rem 1rem;
-  color: #90A4B0;
-}
-
-.credit span {
-  color: #5b89c9;
-}
+      .credit {
+        background: #0E2038;
+        text-align: center;
+        font-size: 1.6rem;
+        padding: 2rem 1rem;
+        color: #90A4B0;
+      }
+      
+      .credit span {
+        color: #5b89c9;
+      }
 
 @media (max-width: 991px) {
   html {
