@@ -115,31 +115,31 @@
       line-height: 2;
       }
 
-.Program .box-container {
+.program .box-container {
   -webkit-columns: 3 25rem;
           columns: 3 25rem;
   -webkit-column-gap: 1.5rem;
           column-gap: 1.5rem;
 }
 
-.Program .box-container .box {
+.program .box-container .box {
   margin-bottom: 1rem;
   -webkit-column-break-inside: avoid;
           break-inside: avoid;
 }
 
-.Program .box-container .box img {
+.program .box-container .box img {
   width: 100%;
   border-radius: 1rem;
   margin-bottom: 1rem;
 }
 
-.Program .box-container .box span {
+.program .box-container .box span {
   font-size: 1.4rem;
   color: #90a4b0;
 }
 
-.Program .box-container .box h3 {
+.program .box-container .box h3 {
   margin-top: .5rem;
   font-size: 2rem;
   color: #0E2038;
