@@ -88,7 +88,7 @@
   .header .btn {
       margin-top: 0;
     }
-  .Program .banner {
+  .banner {
       background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(images/school.png) no-repeat;
       background-size: cover;
       background-position: center;
@@ -97,18 +97,18 @@
       text-align: center;
     }
       
-  .Program .banner .content span {
+  .banner .content span {
       font-size: 15px;
       color: #ffffff;
       }
   
-  .Program .banner .content h3 {
+  .banner .content h3 {
       font-size: 4rem;
       color: #fff;
       padding: 5rem;
       }
       
-  .Program .banner .content p {
+  .banner .content p {
       font-size: 15px;
       color: #fff;
       margin-top: 1rem;
