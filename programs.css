@@ -89,7 +89,16 @@
       margin-top: 0;
     }
   .banner {
-      background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(images/school.png) no-repeat;
+      background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(images/sc.jpeg) no-repeat;
+      background-size: cover;
+      background-position: center;
+      padding: 3rem 2rem;
+      background-attachment: fixed;
+      text-align: center;
+    }
+
+  .banner2 {
+      background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(images/sch.jpeg) no-repeat;
       background-size: cover;
       background-position: center;
       padding: 3rem 2rem;
