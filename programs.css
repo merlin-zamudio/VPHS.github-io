@@ -346,6 +346,22 @@
           font-size: 2.7rem;
         }
       }
+      .btn {
+        margin-top: 1rem;
+        display: inline-block;
+        padding: 1rem 3rem;
+        font-size: 1.7rem;
+        color: #fff;
+        border: 0.2rem solid #FFF;
+        border-radius: 5rem;
+        cursor: pointer;
+        background: #83a1cc;
+      }
+      
+      .btn:hover {
+        background: #f5c400;
+        color: #fffdf0;
+      }
       
   
   

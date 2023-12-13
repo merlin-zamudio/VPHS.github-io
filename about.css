@@ -183,7 +183,7 @@
     }
     
   .banner {
-      background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(images/school.png) no-repeat;
+      background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(images/aboutbanner2.jpg) no-repeat;
       background-size: cover;
       background-position: center;
       padding: 3rem 2rem;
@@ -376,4 +376,20 @@
   .banner .content h3 {
     font-size: 2.7rem;
   }
+}
+.btn {
+  margin-top: 1rem;
+  display: inline-block;
+  padding: 1rem 3rem;
+  font-size: 1.7rem;
+  color: #fff;
+  border: 0.2rem solid #FFF;
+  border-radius: 5rem;
+  cursor: pointer;
+  background: #83a1cc;
+}
+
+.btn:hover {
+  background: #f5c400;
+  color: #fffdf0;
 }
